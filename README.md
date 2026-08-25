@@ -1,84 +1,106 @@
 <div align="center">
 
-# 👋 Dayanand R
+# 👋 Hey, I'm Dayanand R
 
-### Operations Engineering Analyst • AI Builder • Analytics Enthusiast
+### 🚀 Analytics • AI • Automation • Technology
 
-Building intelligent solutions through Data, AI, Automation & Technology 🚀
+Building intelligent solutions that transform business challenges into measurable impact.
 
 <br>
 
-!ttps://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Data+Analytics;Artificial+Intelligence;Process+Automation;Business+Intelligence;Continuous+Learning
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&center=true&vCenter=true&width=800&lines=Data+Analytics+Enthusiast;AI+%26+Automation+Builder;Business+Intelligence+Explorers+Engineering+Professional;Always+Learning+Something+New
 
 </div>
 
 ---
 
-## 🚀 Highlights
+## 💡 Who Am I?
 
-```text
-📊 Built a Workforce Analytics Dashboard
-🤖 Developed an AI Email Drafting Assistant
-⚡ Automating operational workflows
-📈 Turning business data into actionable insights
+```yaml
+Name: Dayanand R
+
+Role:
+  Operations Engineering Analyst
+
+Passion:
+  Transforming business challenges
+  into scalable technology solutions
+
+Current Interests:
+  - Data Analytics
+  - Artificial Intelligence
+  - Process Automation
+  - Business Intelligence
+  - Data Engineering
+  - Cloud Technologies
 ```
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 Impact & Achievements
 
 ### 📊 Workforce Analytics Dashboard
 
 ✅ Automated workforce reporting
 
-✅ Multi-level analytics & reporting
+✅ Multi-level analytics & insights
 
-✅ Bradford Factor analysis
+✅ Bradford Factor implementation
 
-✅ Action planning system
+✅ Action planning framework
 
-✅ Operational performance insights
+✅ Performance intelligence reporting
 
 ---
 
 ### 🤖 AI Email Drafting Assistant
 
-✅ Human-in-the-loop AI
+✅ Human-in-the-loop AI workflow
 
-✅ Personalized responses
+✅ Personalized draft generation
 
-✅ Improved quality & productivity
+✅ Improved response quality
 
-✅ Faster turnaround time
+✅ Faster turnaround times
 
-✅ Production environment deployment
+✅ Used in production environment
 
 ---
 
-## ⚙️ Tech Stack
+## 🧠 Technology Ecosystem
 
-**📊 Analytics & BI**
+### 📊 Analytics & Business Intelligence
 
-`Excel` `Power Query` `Power Pivot`
-`Dashboard Design` `Data Visualization`
+`Excel`
+`Power Query`
+`Power Pivot`
+`Dashboard Design`
+`Data Visualization`
 `Business Analytics`
 
-**🤖 AI & Automation**
+---
+
+### 🤖 AI & Automation
 
 `Microsoft Copilot`
-`Prompt Engineering`
 `Generative AI`
+`Prompt Engineering`
 `Workflow Automation`
-`AI Productivity Tools`
+`AI Productivity`
+`Process Optimization`
 
-**💾 Data**
+---
+
+### 💾 Data
 
 `SQL`
 `Databricks`
 `Data Analysis`
 `Business Intelligence`
 
-**💻 Development**
+---
+
+### 💻 Development & Cloud
 
 `Python`
 `Power BI`
@@ -87,17 +109,62 @@ Building intelligent solutions through Data, AI, Automation & Technology 🚀
 
 ---
 
-## 🌱 Currently Learning
+## 🚀 Currently Building
 
-`Python` • `Databricks` • `Power BI`
-
-`Cloud Technologies` • `Data Engineering`
-
-`AI Applications`
+```text
+📊 Analytics Dashboards
+🤖 AI Productivity Solutions
+⚡ Workflow Automations
+🐍 Python Projects
+☁️ Data & Cloud Skills
+📈 Reporting & Insights Platforms
+```
 
 ---
 
-## 🌐 Connect
+## 🎯 Current Learning Path
+
+```text
+SQL               ██████████
+
+Power Query       ██████████
+
+Analytics         ██████████
+
+Python            ███████░░░
+
+Databricks        ██████░░░░
+
+Power BI          ██████░░░░
+
+Cloud             █████░░░░░
+
+Data Engineering  █████░░░░░
+```
+
+---
+
+## 🌟 What You'll Find Here
+
+```text
+📊 Data Analytics Projects
+
+🤖 AI Experiments
+
+⚡ Automation Solutions
+
+📈 Business Intelligence Tools
+
+💾 SQL Learning Projects
+
+☁️ Databricks Explorations
+
+🧪 Technology Experiments
+```
+
+---
+
+## 🌐 Connect With Me
 
 💼 LinkedIn
 
@@ -111,15 +178,15 @@ dayanand.r@outlook.com
 
 <div align="center">
 
-### ⚡ Philosophy
+## ⚡ Personal Philosophy
 
-**Automate what is repetitive.**
+### "Automate what is repetitive."
 
-**Analyze what is meaningful.**
+### "Analyze what is meaningful."
 
-**Build what creates impact.**
+### "Build what creates impact."
 
----
+<br>
 
 ### 🚀 Data-Driven • AI-Powered • Continuously Improving
 
