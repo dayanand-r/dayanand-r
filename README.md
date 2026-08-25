@@ -1,99 +1,26 @@
-<h1 align="center">Hi 👋 I'm Dayanand R</h1>
+<div align="center">
 
-<h3 align="center">
-Operations Engineering Analyst • Data Analytics Enthusiast • AI & Automation Builder
-</h3>
+# 👋 Hi, I'm Dayanand R
 
-<p align="center">
-Building intelligent solutions with Data, AI, Automation & Technology 🚀
-</p>
+### Data Analytics • AI • Automation • Technology
 
----
+Building intelligent solutions that transform business challenges into measurable outcomes 🚀
 
-## 🎯 Mission
-
-Transforming business challenges into intelligent solutions through:
-
-📊 Data Analytics  
-🤖 Artificial Intelligence  
-⚡ Automation  
-☁️ Cloud Technologies  
-💡 Continuous Innovation
-
-From workforce analytics dashboards to AI-powered productivity tools, I enjoy building practical solutions that create measurable business impact.
+</div>
 
 ---
 
-## 🚀 Current Focus
+## ⚡ Currently Building
 
-```text
-🔹 AI-Powered Productivity Tools
-🔹 Workforce Analytics Dashboards
-🔹 Process Automation
-🔹 Data Analytics & Reporting
-🔹 Python Development
-🔹 Cloud & Data Engineering
+```yaml
+focus:
+  - AI-Powered Productivity Solutions
+  - Workforce Analytics Dashboards
+  - Process Automation
+  - Data Analytics & Reporting
+  - Python Projects
+  - Cloud & Data Engineering
 ```
-
----
-
-## 🧬 Digital DNA
-
-```text
-📊 Data Analytics        ████████████████████ 95%
-🤖 AI & Automation       ███████████████████ 92%
-⚡ Problem Solving       ████████████████████ 95%
-💡 Innovation            ████████████████████ 98%
-📈 Business Thinking     ██████████████████░░ 90%
-💻 Software Development  ███████████████░░░░ 75%
-```
-
----
-
-## ⚙️ Tech Arsenal
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 📊 Analytics
-
-Excel  
-Power Query  
-Power Pivot  
-Data Visualization  
-Dashboard Design  
-Business Analytics
-
-</td>
-
-<td align="center" width="33%">
-
-### 🤖 AI & Automation
-
-Microsoft Copilot  
-Generative AI  
-Prompt Engineering  
-AI Productivity Tools  
-Workflow Automation  
-Process Optimization
-
-</td>
-
-<td align="center" width="33%">
-
-### 💻 Development
-
-SQL  
-Databricks  
-Python  
-Power BI  
-Cloud Technologies  
-Software Development
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -101,77 +28,87 @@ Software Development
 
 ### 📊 Workforce Analytics Dashboard
 
-✅ Automated Data Processing
-
-✅ Multi-Level Reporting
-
-✅ Workforce Intelligence
-
-✅ Bradford Factor Analysis
-
-✅ Action Planning System
-
----
+```diff
++ Automated Data Processing
++ Multi-Level Reporting
++ Workforce Intelligence
++ Bradford Factor Analytics
++ Action Planning Framework
+```
 
 ### 🤖 AI Email Drafting Assistant
 
-✅ Human-in-the-loop AI
-
-✅ Personalized Customer Responses
-
-✅ Improved Quality & Productivity
-
-✅ Faster Turnaround Times
-
-✅ Production Environment Usage
+```diff
++ Human-in-the-Loop AI
++ Personalized Response Generation
++ Improved Quality & Productivity
++ Faster Turnaround Times
++ Production Environment Deployment
+```
 
 ---
 
-## 🌱 Learning Lab
+## 🧠 Tech Universe
 
-<table>
-<tr>
-<td>🐍 Python</td>
-<td>☁️ Cloud Computing</td>
-<td>⚡ Data Engineering</td>
-</tr>
+```text
+📊 ANALYTICS
+Excel • Power Query • Power Pivot
+Dashboard Design • Data Visualization
 
-<tr>
-<td>📈 Power BI</td>
-<td>🧠 Artificial Intelligence</td>
-<td>💻 Software Development</td>
-</tr>
-</table>
+🤖 AI & AUTOMATION
+Microsoft Copilot • Prompt Engineering
+Workflow Automation • AI Productivity
 
----
+💾 DATA
+SQL • Databricks • Business Analytics
+Data Analysis
 
-## 🎯 What You'll Find Here
+💻 DEVELOPMENT
+Python • Power BI
+Software Development
 
-📊 Analytics Projects
-
-🤖 AI Experiments
-
-⚙️ Automation Solutions
-
-📈 Dashboards & Reporting
-
-💾 SQL Projects
-
-☁️ Databricks Learning
-
-🧪 Technology Experiments
+☁️ CLOUD
+Azure • AWS
+```
 
 ---
 
-## 🌐 Connect With Me
+## 🎯 Current Learning Roadmap
 
-💼 LinkedIn:
-[linkedin.com/in/dayanandr](https://www.linkedinoutlook.com
+```mermaid
+graph LR
+A[SQL] --> B[Python]
+B --> C[Power BI]
+C --> D[Databricks]
+D --> E[Cloud]
+E --> F[Data Engineering]
+F --> G[AI Systems]
+```
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=dayanand-r&theme=githubiv>
+
+---
+
+## 🌍 Connect
+
+💼 LinkedIn: www.linkedin.com/in/dayanandr
+
+📩 Email: dayanand.r@outlook.com
 
 ---
 
 <div align="center">
 
-### ⚡ Automate what is repetitive. Analyze what matters. Build what creates impact.
+## 🚀 Personal Philosophy
+
+### "Automate what is repetitive.
+### Analyze what is meaningful.
+### Build what creates impact."
 
 </div>
