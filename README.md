@@ -1,169 +1,245 @@
 <div align="center">
 
-# ⚡ DAYANAND
+# ⚡ DAYANAND.OS
 
-### AI • ANALYTICS • AUTOMATION
+```txt
+██████╗  █████╗ ██╗   ██╗ █████╗ ███╗   ██╗ █████╗ ███╗   ██╗██████╗
+██╔══██╗██╔══██╗╚██╗ ██╔╝██╔══██╗████╗  ██║██╔══██╗████╗  ██║██╔══██╗
+██║  ██║███████║ ╚████╔╝ ███████║██╔██╗ ██║███████║██╔██╗ ██║██║  ██║
+██║  ██║██╔══██║  ╚██╔╝  ██╔══██║██║╚██╗██║██╔══██║██║╚██╗██║██║  ██║
+██████╔╝██║  ██║   ██║   ██║  ██║██║ ╚████║██║  ██║██║ ╚████║██████╔╝
+╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=36BCF7&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Solutions;Transforming+Data+Into+Insights;Automating+Business+Processes;Exploring+Modern+Technologies;Always+Learning+Always
-<br>
+### Analytics • AI • Automation • Technology
 
-> 🚀 Turning ideas into systems, data into decisions, and automation into impact.
+```bash
+STATUS      : ONLINE 🟢
+
+UPTIME      : Building Every Day
+
+MISSION     : Turn Ideas Into Systems
+
+MODE        : CREATE > LEARN > IMPROVE
+
+VERSION     : v2026.08
+```
 
 </div>
 
 ---
 
-## 🧠 DIGITAL PROFILE
+# $ whoami
 
 ```yaml
-name: Dayanand R
+name:
+  Dayanand R
 
 role:
   Operations Engineering Analyst
 
-focus:
+speciality:
   - Data Analytics
   - Artificial Intelligence
-  - Automation
+  - Process Automation
   - Business Intelligence
 
-currently_building:
-  - AI Productivity Tools
-  - Workforce Analytics Solutions
-  - Automation Systems
+obsession:
+  Turning complicated problems
+  into elegant solutions.
 
 currently_learning:
   - Python
   - Databricks
-  - Data Engineering
   - Cloud Technologies
+  - Data Engineering
 ```
 
 ---
 
-## 🚀 FEATURED BUILDS
-
-### 📊 Workforce Analytics Dashboard
-
-```diff
-+ Automated workforce reporting
-+ Multi-level performance analytics
-+ Workforce intelligence framework
-+ Bradford Factor implementation
-+ Action planning engine
-+ Operational insights visualization
-```
-
-### 🤖 AI Email Drafting Assistant
-
-```diff
-+ Human-in-the-loop AI
-+ Intelligent draft generation
-+ Personalized responses
-+ Faster turnaround time
-+ Improved quality metrics
-+ Production-ready deployment
-```
-
----
-
-## ⚙️ TECH UNIVERSE
-
-### 📊 Analytics
-
-`Excel`
-`Power Query`
-`Power Pivot`
-`Dashboard Design`
-`Data Visualization`
-`Business Analytics`
-
-### 🤖 AI & Automation
-
-`Microsoft Copilot`
-`Generative AI`
-`Prompt Engineering`
-`Workflow Automation`
-`AI Productivity`
-
-### 💾 Data
-
-`SQL`
-`Databricks`
-`Data Analysis`
-`Business Intelligence`
-
-### 💻 Engineering
-
-`Python`
-`Power BI`
-`Cloud Technologies`
-`Software Development`
-
----
-
-## 🔥 CURRENT MISSION
+# $ ls deployed-projects
 
 ```text
-📊 Building Analytics Dashboards
+📊 Workforce Analytics Dashboard
 
-🤖 Exploring AI Systems
+├─ Automated Data Processing
+├─ Multi-Level Reporting
+├─ Workforce Intelligence
+├─ Bradford Factor Analytics
+├─ Action Planning Framework
+└─ Performance Insights
 
-⚡ Automating Repetitive Work
+```
 
-🐍 Learning Python
+```text
+🤖 AI Email Drafting Assistant
 
-☁️ Expanding Cloud Knowledge
+├─ Human-in-the-Loop AI
+├─ Intelligent Draft Generation
+├─ Better Response Quality
+├─ Faster Turnaround Times
+└─ Production Deployment
 
-💾 Strengthening Data Engineering Skills
 ```
 
 ---
 
-## 🛠 PROJECT LAB
+# $ cat tech-stack.json
 
-```text
+```json
+{
+  "Analytics": [
+    "Excel",
+    "Power Query",
+    "Power Pivot",
+    "Dashboard Design",
+    "Data Visualization"
+  ],
+
+  "AI": [
+    "Microsoft Copilot",
+    "Generative AI",
+    "Prompt Engineering",
+    "AI Productivity"
+  ],
+
+  "Data": [
+    "SQL",
+    "Databricks",
+    "Business Analytics",
+    "Data Analysis"
+  ],
+
+  "Development": [
+    "Python",
+    "Power BI",
+    "Cloud Technologies"
+  ]
+}
+```
+
+---
+
+# $ current-focus
+
+```diff
++ Building Analytics Dashboards
+
++ Creating AI Productivity Tools
+
++ Automating Repetitive Work
+
++ Exploring Data Engineering
+
++ Learning Cloud Technologies
+
++ Building With Python
+```
+
+---
+
+# $ system-metrics
+
+```txt
+Curiosity             ████████████████████ 100%
+
+Creativity            ████████████████████ 100%
+
+Automation            ██████████████████░░  92%
+
+Analytics             ██████████████████░░  92%
+
+Problem Solving       ███████████████████░  95%
+
+Sleep                 ██░░░░░░░░░░░░░░░░░   8%
+```
+
+---
+
+# $ roadmap
+
+```mermaid
+flowchart LR
+
+A[Data Analytics]
+-->B[Python]
+
+B
+-->C[Power BI]
+
+C
+-->D[Databricks]
+
+D
+-->E[Cloud]
+
+E
+-->F[Data Engineering]
+
+F
+-->G[AI Systems]
+```
+
+---
+
+# $ repositories
+
+```txt
 📁 Workforce Analytics Dashboard
 
-📁 AI Productivity Solutions
+📁 AI Productivity Projects
 
-📁 SQL Practice Repository
-
-📁 Python Learning Projects
+📁 SQL Portfolio
 
 📁 Databricks Playground
 
+📁 Python Automation Lab
+
 📁 Process Automation Toolkit
+
+📁 Technology Experiments
 ```
 
 ---
 
-## 🌐 CONNECT
+# $ philosophy
 
-💼 LinkedIn
+```bash
+while(alive){
 
-www.linkedin.com/in/dayanandr
+    learn();
 
-📧 Email
+    build();
 
-dayanand.r@outlook.com
+    automate();
+
+    improve();
+
+}
+```
 
 ---
 
 <div align="center">
 
-## 💡 CORE PHILOSOPHY
+### 🚀 DATA DRIVEN
 
-### Learn.
+### 🤖 AI POWERED
 
-### Build.
+### ⚡ AUTOMATION OBSESSED
 
-### Automate.
+### ♾️ CONTINUOUSLY EVOLVING
 
-### Improve.
+</div>
 
-<br>
+---
 
-🚀 DATA DRIVEN • 🤖 AI POWERED • ⚡ AUTOMATION FOCUSED
+<div align="center">
+
+## CONNECT
+
+💼 www.linkedin.com/in/dayanandr
+
+📧 dayanand.r@outlook.com
 
 </div>
