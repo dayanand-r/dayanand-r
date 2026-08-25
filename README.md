@@ -1,105 +1,177 @@
-Hi there! 👋 I'm Dayanand R
+<h1 align="center">Hi 👋 I'm Dayanand R</h1>
 
+<h3 align="center">
+Operations Engineering Analyst • Data Analytics Enthusiast • AI & Automation Builder
+</h3>
+
+<p align="center">
 Building intelligent solutions with Data, AI, Automation & Technology 🚀
-
-I'm an Operations Engineering Analyst passionate about solving real-world business challenges through data-driven thinking, automation, and continuous learning.
-
-From designing interactive dashboards and streamlining workflows to exploring AI, programming, cloud technologies, and modern analytics, I enjoy building practical solutions that create measurable impact.
+</p>
 
 ---
 
-🚀 About Me
+## 🎯 Mission
 
-- 💼 Operations Engineering Analyst
-- 📊 Passionate about Data Analytics & Business Intelligence
-- 🤖 Exploring AI, AI-powered Automation & Intelligent Workflows
-- 💻 Learning Programming, SQL & Databricks
-- ⚡ Building practical tools that improve productivity
-- 🌱 Lifelong learner who enjoys turning ideas into solutions
+Transforming business challenges into intelligent solutions through:
 
----
+📊 Data Analytics  
+🤖 Artificial Intelligence  
+⚡ Automation  
+☁️ Cloud Technologies  
+💡 Continuous Innovation
 
-💻 Tech Stack:
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
+From workforce analytics dashboards to AI-powered productivity tools, I enjoy building practical solutions that create measurable business impact.
 
 ---
 
-📊 GitHub Stats:
+## 🚀 Current Focus
 
-![](https://github-readme-stats.shion.dev/api?username=dayanand-r&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=dayanand-r&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=dayanand-r&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+```text
+🔹 AI-Powered Productivity Tools
+🔹 Workforce Analytics Dashboards
+🔹 Process Automation
+🔹 Data Analytics & Reporting
+🔹 Python Development
+🔹 Cloud & Data Engineering
+```
 
 ---
 
-<h2>🛠️ Tech & Tools</h2>
+## 🧬 Digital DNA
+
+```text
+📊 Data Analytics        ████████████████████ 95%
+🤖 AI & Automation       ███████████████████ 92%
+⚡ Problem Solving       ████████████████████ 95%
+💡 Innovation            ████████████████████ 98%
+📈 Business Thinking     ██████████████████░░ 90%
+💻 Software Development  ███████████████░░░░ 75%
+```
+
+---
+
+## ⚙️ Tech Arsenal
 
 <table>
 <tr>
-<td>📊 <b>Analytics & BI</b></td>
-<td>Excel • Power Query • Power Pivot • Dashboard Design • Data Visualization</td>
-</tr>
-<tr>
-<td>🤖 <b>Automation</b></td>
-<td>Excel VBA • Process Automation • Workflow Optimization • AI Productivity Tools</td>
-</tr>
-<tr>
-<td>💾 <b>Data</b></td>
-<td>SQL • Databricks • Data Analysis • Business Analytics</td>
-</tr>
-<tr>
-<td>🌱 <b>Currently Exploring</b></td>
-<td>Python • Power BI • Cloud Technologies • AI Applications • Software Development</td>
+<td align="center" width="33%">
+
+### 📊 Analytics
+
+Excel  
+Power Query  
+Power Pivot  
+Data Visualization  
+Dashboard Design  
+Business Analytics
+
+</td>
+
+<td align="center" width="33%">
+
+### 🤖 AI & Automation
+
+Microsoft Copilot  
+Generative AI  
+Prompt Engineering  
+AI Productivity Tools  
+Workflow Automation  
+Process Optimization
+
+</td>
+
+<td align="center" width="33%">
+
+### 💻 Development
+
+SQL  
+Databricks  
+Python  
+Power BI  
+Cloud Technologies  
+Software Development
+
+</td>
 </tr>
 </table>
 
 ---
 
-📂 Featured Projects
+## 🏆 Featured Work
 
-Coming soon...
+### 📊 Workforce Analytics Dashboard
 
-- 📊 Interactive Analytics Dashboards
-- ⚙️ Automation Solutions
-- 🤖 AI Productivity Projects
-- 🗄️ SQL Portfolio
-- ☁️ Databricks Learning Projects
-- 💻 Programming Projects
+✅ Automated Data Processing
 
----
+✅ Multi-Level Reporting
 
-🌱 Currently Learning
+✅ Workforce Intelligence
 
-- Artificial Intelligence
-- Advanced SQL
-- Python
-- Databricks
-- Cloud Technologies
-- Software Development
-- Data Engineering
+✅ Bradford Factor Analysis
+
+✅ Action Planning System
 
 ---
 
-💡 What You'll Find Here
+### 🤖 AI Email Drafting Assistant
 
-This GitHub is my digital workspace where I share projects related to:
+✅ Human-in-the-loop AI
 
-- Data Analytics
-- AI & Automation
-- Business Intelligence
-- Process Improvement
-- Dashboards
-- Programming
-- Open Learning
-- Technology Experiments
+✅ Personalized Customer Responses
 
----
+✅ Improved Quality & Productivity
 
-🤝 Let's Connect
+✅ Faster Turnaround Times
 
-💼 LinkedIn: https://www.linkedin.com/in/dayanandr
+✅ Production Environment Usage
 
 ---
 
-«"Keep learning. Keep building. Keep improving." 🚀»
+## 🌱 Learning Lab
+
+<table>
+<tr>
+<td>🐍 Python</td>
+<td>☁️ Cloud Computing</td>
+<td>⚡ Data Engineering</td>
+</tr>
+
+<tr>
+<td>📈 Power BI</td>
+<td>🧠 Artificial Intelligence</td>
+<td>💻 Software Development</td>
+</tr>
+</table>
+
+---
+
+## 🎯 What You'll Find Here
+
+📊 Analytics Projects
+
+🤖 AI Experiments
+
+⚙️ Automation Solutions
+
+📈 Dashboards & Reporting
+
+💾 SQL Projects
+
+☁️ Databricks Learning
+
+🧪 Technology Experiments
+
+---
+
+## 🌐 Connect With Me
+
+💼 LinkedIn:
+[linkedin.com/in/dayanandr](https://www.linkedinoutlook.com
+
+---
+
+<div align="center">
+
+### ⚡ Automate what is repetitive. Analyze what matters. Build what creates impact.
+
+</div>
