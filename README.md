@@ -1,199 +1,195 @@
 <div align="center">
 
-# DAYANAND.EXE
+# 👋 Hello, I'm Dayanand R
 
-### 🟢 STATUS: ONLINE
+### Data Analytics • AI • Automation • Technology
 
-```text
-╔══════════════════════════════════════════════════════╗
-║ DATA ANALYTICS • AI • AUTOMATION • TECHNOLOGY       ║
-║ Building intelligent solutions for real problems    ║
-╚══════════════════════════════════════════════════════╝
-```
+Building intelligent solutions that transform business challenges into measurable outcomes 🚀
 
-### 🚀 Turning Data into Insights • Automation into Efficiency • Ideas into Solutions
+<br>
+
+> Turning Data into Insights • Automation into Efficiency • Ideas into Solutions
 
 </div>
 
 ---
 
-# ⚡ SYSTEM OVERVIEW
+## 🎯 About Me
 
-```yaml
-NAME: Dayanand R
+I'm an Operations Engineering Analyst passionate about leveraging **Data Analytics**, **Artificial Intelligence**, and **Automation** to solve real-world business challenges.
 
-CURRENT_ROLE:
-  Operations Engineering Analyst
-
-MISSION:
-  Transform complex business challenges
-  into intelligent and scalable solutions
-
-CORE_DOMAINS:
-  - Data Analytics
-  - Business Intelligence
-  - Artificial Intelligence
-  - Process Automation
-  - Operational Excellence
-
-CURRENTLY_EXPLORING:
-  - Python
-  - Databricks
-  - Data Engineering
-  - Cloud Technologies
-  - AI Systems
-
-STATUS:
-  ONLINE 🟢
-```
+Whether it's building workforce analytics dashboards, streamlining processes through automation, or exploring AI-powered productivity solutions, I enjoy creating tools that deliver measurable impact.
 
 ---
 
-# 🚀 DEPLOYED SYSTEMS
-
-## 📊 Workforce Analytics Dashboard
-
-```diff
-+ Automated Data Processing
-+ Workforce Intelligence
-+ Multi-Level Reporting
-+ Bradford Factor Analytics
-+ Action Planning Framework
-+ Department Performance Insights
-```
-
-### Impact
-
-- Automated reporting workflows
-- Improved operational visibility
-- Reduced manual effort
-- Enabled data-driven decision making
-
----
-
-## 🤖 AI Email Drafting Assistant
-
-```diff
-+ Human-in-the-Loop AI
-+ Personalized Draft Generation
-+ Improved Response Quality
-+ Faster Turnaround Times
-+ Production Environment Deployment
-```
-
-### Impact
-
-- Improved communication quality
-- Increased productivity
-- Reduced email reworks
-- Enhanced customer experience
-
----
-
-# 🧠 TECH STACK LOADED
+## 🚀 What I'm Working On
 
 ```text
-📊 ANALYTICS
-├── Excel
-├── Power Query
-├── Power Pivot
-├── Dashboard Design
-├── Data Visualization
-└── Business Analytics
-
-🤖 AI & AUTOMATION
-├── Microsoft Copilot
-├── Generative AI
-├── Prompt Engineering
-├── AI Productivity Tools
-├── Workflow Automation
-└── Process Optimization
-
-💾 DATA
-├── SQL
-├── Databricks
-├── Data Analysis
-└── Business Intelligence
-
-💻 DEVELOPMENT
-├── Python
-├── Power BI
-├── Software Development
-└── Cloud Technologies
+📊 Workforce Analytics & Reporting
+🤖 AI-Powered Productivity Solutions
+⚡ Process Automation & Optimization
+💾 Data Analytics & Business Intelligence
+🐍 Python Development
+☁️ Cloud & Data Engineering
 ```
 
 ---
 
-# 🔬 CURRENT LAB
+## 🏆 Featured Projects
 
-```bash
-> Experiment_01
-AI Productivity Systems
+### 📊 Workforce Analytics Dashboard
 
-> Experiment_02
-Workforce Analytics Solutions
+✅ Automated Data Processing
 
-> Experiment_03
-Python Development
+✅ Multi-Level Reporting
 
-> Experiment_04
-Cloud & Data Engineering
+✅ Workforce Intelligence
 
-> Experiment_05
-Business Intelligence Automation
-```
+✅ Bradford Factor Analysis
+
+✅ Action Planning Framework
+
+✅ Operational Performance Insights
 
 ---
 
-# 📂 PROJECT PIPELINE
+### 🤖 AI Email Drafting Assistant
+
+✅ Human-in-the-Loop AI
+
+✅ Personalized Response Generation
+
+✅ Improved Quality & Productivity
+
+✅ Faster Turnaround Times
+
+✅ Production Environment Deployment
+
+✅ Enhanced Customer Experience
+
+---
+
+## ⚙️ Tech Stack
+
+### 📊 Analytics & Business Intelligence
+
+`Excel` `Power Query` `Power Pivot`
+
+`Dashboard Design` `Data Visualization`
+
+`Business Analytics`
+
+---
+
+### 🤖 AI & Automation
+
+`Microsoft Copilot`
+
+`Prompt Engineering`
+
+`Generative AI`
+
+`Workflow Automation`
+
+`AI Productivity Tools`
+
+`Process Optimization`
+
+---
+
+### 💾 Data
+
+`SQL`
+
+`Databricks`
+
+`Data Analysis`
+
+`Business Intelligence`
+
+---
+
+### 💻 Development & Cloud
+
+`Python`
+
+`Power BI`
+
+`Cloud Technologies`
+
+`Software Development`
+
+---
+
+## 🌱 Learning Journey
 
 ```text
-✅ Workforce Analytics Dashboard
+SQL               ██████████
 
-✅ AI Email Drafting Assistant
+Power Query       ██████████
 
+Data Analytics    ██████████
+
+Python            ███████░░░
+
+Databricks        ██████░░░░
+
+Cloud             █████░░░░░
+
+Data Engineering  █████░░░░░
+
+AI Systems        ███████░░░
+```
+
+---
+
+## 📂 Project Pipeline
+
+```text
 🔄 SQL Portfolio
 
 🔄 Automation Toolkit
 
-🔄 Databricks Learning Projects
+🔄 Databricks Projects
 
 🔄 Python Utilities
 
-🔄 AI-Powered Productivity Tools
+🔄 AI Productivity Solutions
+
+🔄 Analytics Dashboards
+
+🔄 Business Intelligence Projects
 ```
 
 ---
 
-# 🎯 ROADMAP 2026
+## 💡 Core Interests
 
-```text
-SQL                ██████████ 100%
+📊 Data Analytics
 
-Power Query        ██████████ 100%
+🤖 Artificial Intelligence
 
-Analytics          ██████████ 100%
+⚡ Process Automation
 
-Python             ███████░░░ 70%
+📈 Business Intelligence
 
-Databricks         ██████░░░░ 60%
+☁️ Cloud Technologies
 
-Data Engineering   █████░░░░░ 50%
+💻 Software Development
 
-Cloud              █████░░░░░ 50%
+🔍 Problem Solving
 
-AI Systems         ███████░░░ 70%
-```
+🚀 Continuous Learning
 
 ---
 
-# 🌍 CONNECT
+## 🌐 Connect With Me
 
-### 💼 LinkedIn
+💼 LinkedIn
 
-www.linkedin.com/in/dayanandr
+linkedin.com/in/dayanandr
 
-### 📧 Email
+📧 Email
 
 dayanand.r@outlook.com
 
@@ -201,16 +197,16 @@ dayanand.r@outlook.com
 
 <div align="center">
 
-# 💭 PERSONAL PHILOSOPHY
+## 🚀 Philosophy
 
-### "Automate what is repetitive."
+### “Automate what is repetitive.”
 
-### "Analyze what is meaningful."
+### “Analyze what is meaningful.”
 
-### "Build what creates impact."
+### “Build what creates impact.”
 
-<br>
+---
 
-### 🚀 DATA-DRIVEN • AI-POWERED • CONTINUOUSLY IMPROVING
+### Data-Driven • AI-Powered • Continuously Improving
 
 </div>
