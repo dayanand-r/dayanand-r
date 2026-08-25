@@ -1,99 +1,116 @@
-# Hi there, I'm Dayanand R 👋
+Hi there! 👋 I'm Dayanand R
 
-### Operations Engineering Analyst | Data Analytics Enthusiast | AI & Automation Builder
+Building intelligent solutions with Data, AI, Automation & Technology 🚀
 
-Building intelligent solutions through Data, Analytics, AI, Automation, and Technology 🚀
+I'm an Operations Engineering Analyst passionate about solving real-world business challenges through data-driven thinking, automation, and continuous learning.
 
-I enjoy transforming complex business challenges into practical solutions through analytics, automation, and innovative thinking. From developing workforce intelligence dashboards to creating AI-powered productivity tools, I am passionate about leveraging technology to improve efficiency, enhance decision-making, and deliver measurable business impact.
-
----
-
-## 💫 About Me
-
-🔭 Currently building analytics dashboards, AI-powered productivity tools, and process automation solutions
-
-🤖 Exploring Artificial Intelligence, AI Agents, Intelligent Workflows, and Enterprise Automation
-
-📊 Passionate about Data Analytics, Business Intelligence, Operational Excellence, and Data-Driven Decision Making
-
-👯 Looking to collaborate on Data Analytics, Business Intelligence, AI Automation, and Open Source projects
-
-🤝 Seeking opportunities to learn from professionals in Python, Data Engineering, Cloud Technologies, and Software Development
-
-🌱 Currently learning Python, Databricks, Power BI, Data Engineering, Cloud Computing, and Modern Software Development
-
-💬 Ask me about Excel Automation, Power Query, Dashboard Development, Workforce Analytics, Process Improvement, AI Productivity Tools, and IT Operations
-
-⚡ Fun Fact: I independently built a live Workforce Analytics Dashboard and an AI-assisted Email Drafting Solution used in a production environment
+From designing interactive dashboards and streamlining workflows to exploring AI, programming, cloud technologies, and modern analytics, I enjoy building practical solutions that create measurable impact.
 
 ---
 
-## 🛠️ Tech & Tools
+🚀 About Me
 
-### 📊 Analytics & Business Intelligence
-![Excel](https://img.shields.io/badge7346?style=flat&logo=microsoft-excel&logoColor=white
-![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat&logo=microsoft-excele
-![Power BI](https://img.shge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black
-![Dashboarding](https://img.shields.io/badge/Dashboard_Design-0066CC?style=flat)
-
-ation
-![Microsoft Copilot](https://img.shields.io/badge/Microsoft_Copilot-0078D4?style=flat&logo=microsoft&erative AI](https://img.shields.io/badge/Generative_AI-FF6Prompt Engineering](https://img.shields.io/badge/Prompt_Engineeringutomation](https://img.shields.io/badge/86B?style=flat
-
-### 💻 Data & Development
-![SQL](https://img.shields.io/badge/SQL-4479A1?lat&logo=mysql&logoColor=white
-![Databricks](https://img.shields.io/badge/Databricks-Eat&logo=databricks&logoColor=white
-![Python](https://img.shields.io/badge/Python-Learningyle=flat&logo=python&logoColor=white
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor
-### ☁️ Cloud & Platforms
-![Azure](https://img.shields.io/badge/Azure-yle=flat&logo=microsoftazure&logoColor=white
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=ws&logoColor=white
-
-### ⚙️ IT Service Management
-![ITIL](https://img.shields.io/badge/ITIL-4B008flat
-![ServiceNow](https://img.shields.io/badge/ServiceNow-1BA94C?style=flat&logo=servicenow&logoColor/img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white
+- 💼 Operations Engineering Analyst
+- 📊 Passionate about Data Analytics & Business Intelligence
+- 🤖 Exploring AI, AI-powered Automation & Intelligent Workflows
+- 💻 Learning Programming, SQL & Databricks
+- ⚡ Building practical tools that improve productivity
+- 🌱 Lifelong learner who enjoys turning ideas into solutions
 
 ---
 
-## 🚀 Featured Projects
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=dayanand-r&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=dayanand-r&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=dayanand-r&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 📊 Workforce Analytics Dashboard
-Built a comprehensive operational dashboard featuring:
-- Automated data ingestion with Power Query
-- Bradford Factor Analysis
-- Multi-level reporting
-- KPI & attendance insights
-- Workforce intelligence visualization
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🤖 AI-Powered Email Drafting Assistant
-Developed a human-in-the-loop AI solution that:
-- Generates high-quality customer response drafts
-- Improves turnaround time
-- Enhances communication quality
-- Supports operational efficiency
+---
+[![](https://komarev.com/ghpvc/?username=dayanand-r&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+🛠️ Tech & Tools
+
+Analytics & BI
+
+- Microsoft Excel
+- Power Query
+- Power Pivot
+- Dashboard Design
+- Data Visualization
+
+Automation
+
+- Excel VBA
+- Process Automation
+- Workflow Optimization
+- AI Productivity Tools
+
+Data
+
+- SQL
+- Databricks (Learning)
+- Data Analysis
+- Business Analytics
+
+Currently Exploring
+
+- Python
+- Power BI
+- Cloud Technologies
+- AI Applications
+- Software Development
 
 ---
 
-## 🎯 Current Focus Areas
+📂 Featured Projects
+
+Coming soon...
+
+- 📊 Interactive Analytics Dashboards
+- ⚙️ Automation Solutions
+- 🤖 AI Productivity Projects
+- 🗄️ SQL Portfolio
+- ☁️ Databricks Learning Projects
+- 💻 Programming Projects
+
+---
+
+🌱 Currently Learning
 
 - Artificial Intelligence
-- Data Analytics
-- Business Intelligence
-- Process Automation
-- Data Engineering
+- Advanced SQL
+- Python
+- Databricks
 - Cloud Technologies
 - Software Development
-- IT Service Operations
+- Data Engineering
 
 ---
 
-## 🌐 Connect With Me
+💡 What You'll Find Here
 
-https://linkedin.com/in/dayanandr
+This GitHub is my digital workspace where I share projects related to:
 
-https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white](mailto:dayanand.r@outlook.com)
+- Data Analytics
+- AI & Automation
+- Business Intelligence
+- Process Improvement
+- Dashboards
+- Programming
+- Open Learning
+- Technology Experiments
 
 ---
 
-### 💡 Philosophy
+🤝 Let's Connect
 
-> "Technology becomes truly valuable when it transforms complexity into clarity and ideas into measurable impact."
+💼 LinkedIn: https://www.linkedin.com/in/dayanandr
+
+---
+
+«"Keep learning. Keep building. Keep improving." 🚀»
