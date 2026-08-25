@@ -1,36 +1,26 @@
 <div align="center">
 
-# 👋 Hello, I'm Dayanand R
+# 👋 Dayanand R
 
-### Data Analytics • AI • Automation • Technology
+### Operations Engineering Analyst • AI Builder • Analytics Enthusiast
 
-Building intelligent solutions that transform business challenges into measurable outcomes 🚀
+Building intelligent solutions through Data, AI, Automation & Technology 🚀
 
 <br>
 
-> Turning Data into Insights • Automation into Efficiency • Ideas into Solutions
+!ttps://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Data+Analytics;Artificial+Intelligence;Process+Automation;Business+Intelligence;Continuous+Learning
 
 </div>
 
 ---
 
-## 🎯 About Me
-
-I'm an Operations Engineering Analyst passionate about leveraging **Data Analytics**, **Artificial Intelligence**, and **Automation** to solve real-world business challenges.
-
-Whether it's building workforce analytics dashboards, streamlining processes through automation, or exploring AI-powered productivity solutions, I enjoy creating tools that deliver measurable impact.
-
----
-
-## 🚀 What I'm Working On
+## 🚀 Highlights
 
 ```text
-📊 Workforce Analytics & Reporting
-🤖 AI-Powered Productivity Solutions
-⚡ Process Automation & Optimization
-💾 Data Analytics & Business Intelligence
-🐍 Python Development
-☁️ Cloud & Data Engineering
+📊 Built a Workforce Analytics Dashboard
+🤖 Developed an AI Email Drafting Assistant
+⚡ Automating operational workflows
+📈 Turning business data into actionable insights
 ```
 
 ---
@@ -39,155 +29,79 @@ Whether it's building workforce analytics dashboards, streamlining processes thr
 
 ### 📊 Workforce Analytics Dashboard
 
-✅ Automated Data Processing
+✅ Automated workforce reporting
 
-✅ Multi-Level Reporting
+✅ Multi-level analytics & reporting
 
-✅ Workforce Intelligence
+✅ Bradford Factor analysis
 
-✅ Bradford Factor Analysis
+✅ Action planning system
 
-✅ Action Planning Framework
-
-✅ Operational Performance Insights
+✅ Operational performance insights
 
 ---
 
 ### 🤖 AI Email Drafting Assistant
 
-✅ Human-in-the-Loop AI
+✅ Human-in-the-loop AI
 
-✅ Personalized Response Generation
+✅ Personalized responses
 
-✅ Improved Quality & Productivity
+✅ Improved quality & productivity
 
-✅ Faster Turnaround Times
+✅ Faster turnaround time
 
-✅ Production Environment Deployment
-
-✅ Enhanced Customer Experience
+✅ Production environment deployment
 
 ---
 
 ## ⚙️ Tech Stack
 
-### 📊 Analytics & Business Intelligence
+**📊 Analytics & BI**
 
 `Excel` `Power Query` `Power Pivot`
-
 `Dashboard Design` `Data Visualization`
-
 `Business Analytics`
 
----
-
-### 🤖 AI & Automation
+**🤖 AI & Automation**
 
 `Microsoft Copilot`
-
 `Prompt Engineering`
-
 `Generative AI`
-
 `Workflow Automation`
-
 `AI Productivity Tools`
 
-`Process Optimization`
-
----
-
-### 💾 Data
+**💾 Data**
 
 `SQL`
-
 `Databricks`
-
 `Data Analysis`
-
 `Business Intelligence`
 
----
-
-### 💻 Development & Cloud
+**💻 Development**
 
 `Python`
-
 `Power BI`
-
 `Cloud Technologies`
-
 `Software Development`
 
 ---
 
-## 🌱 Learning Journey
+## 🌱 Currently Learning
 
-```text
-SQL               ██████████
+`Python` • `Databricks` • `Power BI`
 
-Power Query       ██████████
+`Cloud Technologies` • `Data Engineering`
 
-Data Analytics    ██████████
-
-Python            ███████░░░
-
-Databricks        ██████░░░░
-
-Cloud             █████░░░░░
-
-Data Engineering  █████░░░░░
-
-AI Systems        ███████░░░
-```
+`AI Applications`
 
 ---
 
-## 📂 Project Pipeline
-
-```text
-🔄 SQL Portfolio
-
-🔄 Automation Toolkit
-
-🔄 Databricks Projects
-
-🔄 Python Utilities
-
-🔄 AI Productivity Solutions
-
-🔄 Analytics Dashboards
-
-🔄 Business Intelligence Projects
-```
-
----
-
-## 💡 Core Interests
-
-📊 Data Analytics
-
-🤖 Artificial Intelligence
-
-⚡ Process Automation
-
-📈 Business Intelligence
-
-☁️ Cloud Technologies
-
-💻 Software Development
-
-🔍 Problem Solving
-
-🚀 Continuous Learning
-
----
-
-## 🌐 Connect With Me
+## 🌐 Connect
 
 💼 LinkedIn
 
-linkedin.com/in/dayanandr
+https://www.linkedin.com/in/dayanandr
 
 📧 Email
 
@@ -197,16 +111,16 @@ dayanand.r@outlook.com
 
 <div align="center">
 
-## 🚀 Philosophy
+### ⚡ Philosophy
 
-### “Automate what is repetitive.”
+**Automate what is repetitive.**
 
-### “Analyze what is meaningful.”
+**Analyze what is meaningful.**
 
-### “Build what creates impact.”
+**Build what creates impact.**
 
 ---
 
-### Data-Driven • AI-Powered • Continuously Improving
+### 🚀 Data-Driven • AI-Powered • Continuously Improving
 
 </div>
