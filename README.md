@@ -1,231 +1,105 @@
-<div align="center">
+Hi there! 👋 I'm Dayanand R
 
-# ⚡ DAYANAND.OS
+Building intelligent solutions with Data, AI, Automation & Technology 🚀
 
-```text
-██████╗  █████╗ ██╗   ██╗ █████╗ ███╗   ██╗ █████╗ ███╗   ██╗██████╗
-██╔══██╗██╔══██╗╚██╗ ██╔╝██╔══██╗████╗  ██║██╔══██╗████╗  ██║██╔══██╗
-██║  ██║███████║ ╚████╔╝ ███████║██╔██╗ ██║███████║██╔██╗ ██║██║  ██║
-██║  ██║██╔══██║  ╚██╔╝  ██╔══██║██║╚██╗██║██╔══██║██║╚██╗██║██║  ██║
-██████╔╝██║  ██║   ██║   ██║  ██║██║ ╚████║██║  ██║██║ ╚████║██████╔╝
-╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝
-```
+I'm an Operations Engineering Analyst passionate about solving real-world business challenges through data-driven thinking, automation, and continuous learning.
 
-### Analytics • AI • Automation • Engineering
-
-![Profile Views](https://komarev.com/ghpvc/?username=dayanandr&color=blue&style=flat---
-
-## 🖥️ System Status
-
-```yaml
-STATUS:      ONLINE 🟢
-UPTIME:      Building Every Day
-MISSION:     Turn Ideas Into Systems
-MODE:        CREATE → LEARN → IMPROVE
-VERSION:     v2026.08
-```
+From designing interactive dashboards and streamlining workflows to exploring AI, programming, cloud technologies, and modern analytics, I enjoy building practical solutions that create measurable impact.
 
 ---
 
-## 👨‍💻 whoami
+🚀 About Me
 
-```yaml
-name: Dayanand R
-
-role:
-  Operations Engineering Analyst
-
-specialties:
-  - Data Analytics
-  - Artificial Intelligence
-  - Process Automation
-  - Business Intelligence
-
-mission:
-  Transform complex operational challenges
-  into scalable automated systems.
-
-currently_learning:
-  - Python
-  - Databricks
-  - Cloud Technologies
-  - Data Engineering
-```
+- 💼 Operations Engineering Analyst
+- 📊 Passionate about Data Analytics & Business Intelligence
+- 🤖 Exploring AI, AI-powered Automation & Intelligent Workflows
+- 💻 Learning Programming, SQL & Databricks
+- ⚡ Building practical tools that improve productivity
+- 🌱 Lifelong learner who enjoys turning ideas into solutions
 
 ---
 
-## 🚀 Featured Projects
+💻 Tech Stack:
 
-### 📊 Workforce Analytics Platform
-
-```text
-├── Automated Data Processing
-├── Workforce Intelligence
-├── Multi-Level Reporting
-├── Bradford Factor Analytics
-├── Action Planning Framework
-└── Executive Performance Insights
-```
-
-### 🤖 AI Email Drafting Assistant
-
-```text
-├── Human-in-the-Loop AI
-├── Intelligent Response Generation
-├── Quality Enhancement
-├── Faster Turnaround Time
-└── Production Deployment
-```
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 
 ---
 
-## 🛠 Technology Stack
+📊 GitHub Stats:
 
-### Analytics
-
-```text
-Excel
-Power Query
-Power Pivot
-Dashboard Design
-Data Visualization
-```
-
-### AI
-
-```text
-Microsoft Copilot
-Generative AI
-Prompt Engineering
-AI Productivity
-```
-
-### Data
-
-```text
-SQL
-Databricks
-Business Analytics
-Data Analysis
-```
-
-### Development
-
-```text
-Python
-Power BI
-Cloud Technologies
-Automation Engineering
-```
+![](https://github-readme-stats.shion.dev/api?username=dayanand-r&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=dayanand-r&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=dayanand-r&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-## 🎯 Current Focus
+<h2>🛠️ Tech & Tools</h2>
 
-```diff
-+ Building Enterprise Analytics Dashboards
-+ Creating AI Productivity Agents
-+ Automating Repetitive Workflows
-+ Exploring Data Engineering
-+ Learning Modern Cloud Platforms
-+ Building Solutions with Python
-```
-
----
-
-## 📈 System Metrics
-
-```text
-Curiosity         ████████████████████ 100%
-Creativity        ████████████████████ 100%
-Problem Solving   ███████████████████░  95%
-Automation        ██████████████████░░  92%
-Analytics         ██████████████████░░  92%
-Sleep             ██░░░░░░░░░░░░░░░░░   8%
-```
+<table>
+<tr>
+<td>📊 <b>Analytics & BI</b></td>
+<td>Excel • Power Query • Power Pivot • Dashboard Design • Data Visualization</td>
+</tr>
+<tr>
+<td>🤖 <b>Automation</b></td>
+<td>Excel VBA • Process Automation • Workflow Optimization • AI Productivity Tools</td>
+</tr>
+<tr>
+<td>💾 <b>Data</b></td>
+<td>SQL • Databricks • Data Analysis • Business Analytics</td>
+</tr>
+<tr>
+<td>🌱 <b>Currently Exploring</b></td>
+<td>Python • Power BI • Cloud Technologies • AI Applications • Software Development</td>
+</tr>
+</table>
 
 ---
 
-## 🗺 Growth Roadmap
+📂 Featured Projects
 
-```mermaid
-flowchart LR
+Coming soon...
 
-A[Data Analytics]
---> B[Python]
-
-B
---> C[Power BI]
-
-C
---> D[Databricks]
-
-D
---> E[Cloud]
-
-E
---> F[Data Engineering]
-
-F
---> G[AI Systems]
-```
+- 📊 Interactive Analytics Dashboards
+- ⚙️ Automation Solutions
+- 🤖 AI Productivity Projects
+- 🗄️ SQL Portfolio
+- ☁️ Databricks Learning Projects
+- 💻 Programming Projects
 
 ---
 
-## 📂 Repositories
+🌱 Currently Learning
 
-```text
-📁 Workforce Analytics Dashboard
-📁 AI Productivity Projects
-📁 SQL Portfolio
-📁 Databricks Playground
-📁 Python Automation Lab
-📁 Process Automation Toolkit
-📁 Technology Experiments
-```
+- Artificial Intelligence
+- Advanced SQL
+- Python
+- Databricks
+- Cloud Technologies
+- Software Development
+- Data Engineering
 
 ---
 
-## 💡 Core Philosophy
+💡 What You'll Find Here
 
-```python
-while True:
+This GitHub is my digital workspace where I share projects related to:
 
-    learn()
-
-    build()
-
-    automate()
-
-    improve()
-```
-
----
-
-<div align="center">
-
-## ⚡ Engineering Principles
-
-📊 DATA DRIVEN
-
-🤖 AI POWERED
-
-⚙️ AUTOMATION FIRST
-
-♾️ CONTINUOUS IMPROVEMENT
-
-</div>
+- Data Analytics
+- AI & Automation
+- Business Intelligence
+- Process Improvement
+- Dashboards
+- Programming
+- Open Learning
+- Technology Experiments
 
 ---
 
-<div align="center">
+🤝 Let's Connect
 
-## 🤝 Connect
+💼 LinkedIn: https://www.linkedin.com/in/dayanandr
 
-💼 LinkedIn  
-https://www.linkedin.com/in/dayanandr
+---
 
-📧 Email  
-dayanand.r@outlook.com
-
-</div>
+«"Keep learning. Keep building. Keep improving." 🚀»
