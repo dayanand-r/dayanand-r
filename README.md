@@ -33,37 +33,19 @@ From designing interactive dashboards and streamlining workflows to exploring AI
 
 ---
 
-🛠️ Tech & Tools
+## 🛠️ Tech Stack
+ 
+| Domain | Technologies & Skills |
 
-Analytics & BI
+|---------|----------------------|
 
-- Microsoft Excel
-- Power Query
-- Power Pivot
-- Dashboard Design
-- Data Visualization
+| 📊 Analytics & BI | Microsoft Excel, Power Query, Power Pivot, Dashboard Design, Data Visualization |
 
-Automation
+| 🤖 AI & Automation | AI Productivity Tools, Process Automation, Workflow Optimization, Excel VBA |
 
-- Excel VBA
-- Process Automation
-- Workflow Optimization
-- AI Productivity Tools
+| 💾 Data & Analytics | SQL, Databricks, Data Analysis, Business Analytics |
 
-Data
-
-- SQL
-- Databricks (Learning)
-- Data Analysis
-- Business Analytics
-
-Currently Exploring
-
-- Python
-- Power BI
-- Cloud Technologies
-- AI Applications
-- Software Development
+| 🌱 Learning Journey | Python, Power BI, Cloud Technologies, AI Applications, Software Development |
 
 ---
 
