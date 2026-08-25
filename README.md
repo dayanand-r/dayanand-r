@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Dayanand R
 
-### Data Analytics • AI • Automation • Technology
+### Data • AI • Automation • Technology
 
 Building intelligent solutions that transform business challenges into measurable outcomes 🚀
 
@@ -10,30 +10,50 @@ Building intelligent solutions that transform business challenges into measurabl
 
 ---
 
-## ⚡ Currently Building
+## 🎯 SYSTEM STATUS
 
 ```yaml
-focus:
-  - AI-Powered Productivity Solutions
-  - Workforce Analytics Dashboards
+NAME: Dayanand R
+
+ROLE:
+  Operations Engineering Analyst
+
+MODE:
+  Building
+  Learning
+  Improving
+
+SPECIALIZATION:
+  - Data Analytics
+  - Business Intelligence
+  - AI Productivity
   - Process Automation
-  - Data Analytics & Reporting
-  - Python Projects
-  - Cloud & Data Engineering
+  - Operational Excellence
+
+CURRENT_FOCUS:
+  - AI Solutions
+  - Dashboard Engineering
+  - Python
+  - Databricks
+  - Data Engineering
+
+STATUS:
+  ONLINE 🟢
 ```
 
 ---
 
-## 🏆 Featured Work
+## 🚀 FEATURED BUILDS
 
 ### 📊 Workforce Analytics Dashboard
 
 ```diff
 + Automated Data Processing
-+ Multi-Level Reporting
 + Workforce Intelligence
++ Multi-Level Reporting
 + Bradford Factor Analytics
 + Action Planning Framework
++ Operational Insights
 ```
 
 ### 🤖 AI Email Drafting Assistant
@@ -41,74 +61,103 @@ focus:
 ```diff
 + Human-in-the-Loop AI
 + Personalized Response Generation
-+ Improved Quality & Productivity
-+ Faster Turnaround Times
++ Productivity Improvement
++ Faster Turnaround Time
 + Production Environment Deployment
 ```
 
 ---
 
-## 🧠 Tech Universe
+## ⚡ TECH ECOSYSTEM
+
+### 📊 Analytics Layer
+
+`Excel` • `Power Query` • `Power Pivot`
+`Dashboard Design` • `Data Visualization`
+`Business Analytics`
+
+### 🤖 Intelligence Layer
+
+`Microsoft Copilot`
+`Generative AI`
+`Prompt Engineering`
+`Workflow Automation`
+`AI Productivity Tools`
+
+### 💾 Data Layer
+
+`SQL`
+`Databricks`
+`Data Analysis`
+`Business Intelligence`
+
+### 💻 Engineering Layer
+
+`Python`
+`Power BI`
+`Software Development`
+`Cloud Technologies`
+
+---
+
+## 🧠 CURRENT EXPERIMENTS
 
 ```text
-📊 ANALYTICS
-Excel • Power Query • Power Pivot
-Dashboard Design • Data Visualization
+[████████░░] Python
 
-🤖 AI & AUTOMATION
-Microsoft Copilot • Prompt Engineering
-Workflow Automation • AI Productivity
+[███████░░░] Databricks
 
-💾 DATA
-SQL • Databricks • Business Analytics
-Data Analysis
+[██████░░░░] Data Engineering
 
-💻 DEVELOPMENT
-Python • Power BI
-Software Development
+[██████░░░░] Cloud Technologies
 
-☁️ CLOUD
-Azure • AWS
+[████████░░] AI Applications
+
+[███████░░░] Power BI
 ```
 
 ---
 
-## 🎯 Current Learning Roadmap
+## 🎯 PROJECT LAB
 
-```mermaid
-graph LR
-A[SQL] --> B[Python]
-B --> C[Power BI]
-C --> D[Databricks]
-D --> E[Cloud]
-E --> F[Data Engineering]
-F --> G[AI Systems]
+```text
+📊 Analytics Dashboards
+🤖 AI Productivity Solutions
+⚙️ Automation Systems
+📈 Business Intelligence
+💾 SQL Projects
+☁️ Databricks Experiments
+🧪 Technology Research
 ```
 
 ---
 
-## 📈 GitHub Activity
+## 🌍 CONNECT
 
-<div align="center">
+💼 LinkedIn
+https://www.linkedin.com/in/dayanandr
 
-![Stats](https://github-readme-stats.vercel.app/api?username=dayanand-r&theme=githubiv>
-
----
-
-## 🌍 Connect
-
-💼 LinkedIn: www.linkedin.com/in/dayanandr
-
-📩 Email: dayanand.r@outlook.com
+📧 Email
+dayanand.r@outlook.com
 
 ---
 
 <div align="center">
 
-## 🚀 Personal Philosophy
+## ⚡ PERSONAL PHILOSOPHY
 
-### "Automate what is repetitive.
-### Analyze what is meaningful.
-### Build what creates impact."
+### "Automate what is repetitive."
+
+### "Analyze what is meaningful."
+
+### "Build what creates impact."
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Data-Driven • AI-Powered • Continuously Improving
 
 </div>
