@@ -1,6 +1,6 @@
 Hi there! 👋 I'm Dayanand R
 
-Building intelligent solutions with Data, AI, Automation & Technology 🚀
+Turning ideas into automation, dashboards, and AI-powered solutions 🚀
 
 I'm an Operations Engineering Analyst passionate about solving real-world business challenges through data-driven thinking, automation, and continuous learning.
 
@@ -69,15 +69,14 @@ Coming soon...
 
 ---
 
-🌱 Currently Learning
+🚀 Current Focus
 
-- Artificial Intelligence
-- Advanced SQL
-- Python
-- Databricks
-- Cloud Technologies
-- Software Development
-- Data Engineering
+- ✅ AI Applications
+- ✅ Power Platform Development
+- ✅ Python Automation
+- ✅ SQL & Databricks
+- ✅ Cloud Technologies
+- ✅ Process Optimization
 
 ---
 
